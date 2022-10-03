@@ -1,15 +1,15 @@
 {
-  "name": "202210-w1ch1-alina-laurs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "HTML",
-    "CSS"
-  ],
-  "author": "Alina Laurs",
-  "license": "ISC"
+    "name": "202210-w1ch1-alina-laurs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "HTML",
+        "CSS"
+    ],
+    "author": "Alina Laurs",
+    "license": "ISC"
 }
